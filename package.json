@@ -57,7 +57,7 @@
     "loopback-connector-rest": "^3.4.2"
   },
   "devDependencies": {
-    "@loopback/build": "^2.0.8",
+    "@loopback/build": "^9.0.6",
     "source-map-support": "^0.5.13",
     "@loopback/testlab": "^1.7.4",
     "@types/node": "^10.14.15",
